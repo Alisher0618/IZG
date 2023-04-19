@@ -10,8 +10,8 @@ The gola of the exercises is to practically test and verify the knowledge acquir
     * lab_05 - Displaying 2D curves in the raster
 
 # Evaluation
-    * izg_lab_01 - 2.5/3 
-    * izg_lab_02 - 3/3 
-    * izg_lab_03 - 3/3 
-    * izg_lab_04 - 2.5/3 
-    * izg_lab_05 - 3/3 
+    izg_lab_01 - 2.5/3 
+    izg_lab_02 - 3/3 
+    izg_lab_03 - 3/3 
+    izg_lab_04 - 2.5/3 
+    izg_lab_05 - 3/3 
