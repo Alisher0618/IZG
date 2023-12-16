@@ -1,6 +1,6 @@
 # IZG - Computer Graphics Principles
 
-# Intruduction
+# Introduction
 The goal of the exercises is to practically test and verify the knowledge acquired in the lectures.
 + Topics:
     * lab_01 - Color space reduction 
